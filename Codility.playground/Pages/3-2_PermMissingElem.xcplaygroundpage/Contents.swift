@@ -33,13 +33,13 @@ import XCTest
 class Solution {
     public func solution(_ A : inout [Int]) -> Int {
         var sum = 0
-        let expection = (1 + (A.count + 1)) * (A.count + 1) / 2
+        let expectation = (1 + (A.count + 1)) * (A.count + 1) / 2
 
         for element in A {
             sum += element
         }
 
-        return expection - sum
+        return expectation - sum
     }
 }
 
