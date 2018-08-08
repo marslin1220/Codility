@@ -6,5 +6,6 @@
         <page name='2-1_CyclicRotation'/>
         <page name='2-2_OddOccurrencesInArray'/>
         <page name='3-1_FrogJmp'/>
+        <page name='3-2_PermMissingElem'/>
     </pages>
 </playground>
