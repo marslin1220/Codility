@@ -9,5 +9,6 @@
         <page name='3-2_PermMissingElem'/>
         <page name='3-3_TapeEquilibrium'/>
         <page name='4-2_FrogRiverOne'/>
+        <page name='4-1_PermCheck'/>
     </pages>
 </playground>
