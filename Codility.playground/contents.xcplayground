@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='macos' display-mode='raw'>
     <pages>
-        <page name='Sample'/>
         <page name='1_BinaryGap'/>
         <page name='2-1_CyclicRotation'/>
         <page name='2-2_OddOccurrencesInArray'/>
         <page name='3-1_FrogJmp'/>
         <page name='3-2_PermMissingElem'/>
         <page name='3-3_TapeEquilibrium'/>
-        <page name='4-2_FrogRiverOne'/>
         <page name='4-1_PermCheck'/>
+        <page name='4-2_FrogRiverOne'/>
+        <page name='4-3_MaxCounters'/>
+        <page name='Sample'/>
     </pages>
 </playground>
